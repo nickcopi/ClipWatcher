@@ -1,0 +1,6 @@
+{
+	"name":"Clipboard Watcher",
+	"tags":["Cyber","Tools"],
+	"description":"Powershell script and Google Appscript backend that actively watches the victim's clipboard and writes it back to a Google Sheet every time it changes.",
+	"date":"October 2019"
+}
